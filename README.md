@@ -201,4 +201,4 @@ let numberOfDonuts *= 2; // MULTIPLICATION (Calulates 3 * 2, sets numberOfDonuts
 let numberOfDonuts /= 2; // DIVISION (Calulates 6 / 2, sets numberOfDonuts to 3)
 ```
 
-### more on nativemasters.com
+### Learn more on nativemasters.com
